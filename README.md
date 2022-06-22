@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+a live version can be found here [wavecofe](https://wavecofe.herokuapp.com/).
 
 ## Available Scripts
 
