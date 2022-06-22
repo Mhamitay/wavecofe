@@ -1,5 +1,4 @@
 import React from "react";
-
 function Home() {
   return (
     <>
@@ -16,7 +15,7 @@ function Home() {
                   <li class="tm-page-nav-item">
                     <a href="#drink" class="tm-page-link active">
                       <i class="fas fa-mug-hot tm-page-link-icon"></i>
-                      <span>Drink Menu</span>
+                      <span>Drink Menu rrrr</span>
                     </a>
                   </li>
                   <li class="tm-page-nav-item">
