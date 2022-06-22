@@ -470,7 +470,7 @@ function Content() {
             rel=""
             target="_parent"
           >
-            Copyright 2020 Wave Cafe | Hammadof
+            Copyright 2020 Wave Cafe | Hammad
           </a>
         </p>
       </footer>
