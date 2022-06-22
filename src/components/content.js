@@ -464,14 +464,13 @@ function Content() {
       </div>
       <footer class="tm-site-footer">
         <p class="tm-black-bg tm-footer-text">
-          Copyright 2020 Wave Cafe | Design:{" "}
           <a
-            href="https://www.tooplate.com"
+            href="https://github.com/Mhamitay/wavecofe"
             class="tm-footer-link"
-            rel="sponsored"
+            rel=""
             target="_parent"
           >
-            Tooplate
+            Copyright 2020 Wave Cafe | Hammadof
           </a>
         </p>
       </footer>
