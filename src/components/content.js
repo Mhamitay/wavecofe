@@ -73,12 +73,11 @@ function Content() {
                     />
                     <div class="tm-black-bg tm-list-item-text">
                       <h3 class="tm-list-item-name">
-                        Iced Americano
+                        عرايسي
                         <span class="tm-list-item-price">$10.25</span>
                       </h3>
                       <p class="tm-list-item-description">
-                        Here is a short description for the first item. Wave
-                        Cafe Template is provided by Tooplate.
+                        مشروب العرايسي اللذيذ 
                       </p>
                     </div>
                   </div>
@@ -90,12 +89,11 @@ function Content() {
                     />
                     <div class="tm-black-bg tm-list-item-text">
                       <h3 class="tm-list-item-name">
-                        Iced Cappuccino
+                        كاباتشينو
                         <span class="tm-list-item-price">$12.50</span>
                       </h3>
                       <p class="tm-list-item-description">
-                        Here is a list of 4 items or add more. You can use this
-                        template for commercial purposes.
+                        كاباتشينو ولا اروع.
                       </p>
                     </div>
                   </div>
@@ -107,39 +105,15 @@ function Content() {
                     />
                     <div class="tm-black-bg tm-list-item-text">
                       <h3 class="tm-list-item-name">
-                        Iced Espresso
+                        قهوة مثلجة
                         <span class="tm-list-item-price">$14.25</span>
                       </h3>
                       <p class="tm-list-item-description">
-                        You are not permitted to redistribute this template ZIP
-                        file on any other template websites.
+                        قهوة مثلجة مزاااج.
                       </p>
                     </div>
                   </div>
-                  <div class="tm-list-item">
-                    <img
-                      src="img/iced-latte.png"
-                      alt="Image1"
-                      class="tm-list-item-img"
-                    />
-                    <div class="tm-black-bg tm-list-item-text">
-                      <h3 class="tm-list-item-name">
-                        Iced Latte
-                        <span class="tm-list-item-price">$11.50</span>
-                      </h3>
-                      <p class="tm-list-item-description">
-                        Contents are organized into 3 tabs. Please{" "}
-                        <a
-                          href="https://www.tooplate.com/contact"
-                          rel="nofollow"
-                          target="_parent"
-                        >
-                          contact Tooplate
-                        </a>{" "}
-                        if you have anything to ask.
-                      </p>
-                    </div>
-                  </div>
+
                 </div>
               </div>
 
@@ -153,65 +127,15 @@ function Content() {
                     />
                     <div class="tm-black-bg tm-list-item-text">
                       <h3 class="tm-list-item-name">
-                        Hot Americano
+                        موكاتشينو حار
                         <span class="tm-list-item-price">$8.50</span>
                       </h3>
                       <p class="tm-list-item-description">
-                        Here is a short description for the item along with a
-                        squared thumbnail.
+                        موكاتشينو ساخن .
                       </p>
                     </div>
                   </div>
-                  <div class="tm-list-item">
-                    <img
-                      src="img/hot-cappuccino.png"
-                      alt="Image1"
-                      class="tm-list-item-img"
-                    />
-                    <div class="tm-black-bg tm-list-item-text">
-                      <h3 class="tm-list-item-name">
-                        Hot Cappuccino
-                        <span class="tm-list-item-price">$9.50</span>
-                      </h3>
-                      <p class="tm-list-item-description">
-                        Here is a list of 4 items that can add more as you need.
-                        Only content area will be scrolling.
-                      </p>
-                    </div>
-                  </div>
-                  <div class="tm-list-item">
-                    <img
-                      src="img/hot-espresso.png"
-                      alt="Image1"
-                      class="tm-list-item-img"
-                    />
-                    <div class="tm-black-bg tm-list-item-text">
-                      <h3 class="tm-list-item-name">
-                        Hot Espresso
-                        <span class="tm-list-item-price">$7.50</span>
-                      </h3>
-                      <p class="tm-list-item-description">
-                        Left side logo and main menu are fixed. The video
-                        background is fixed.
-                      </p>
-                    </div>
-                  </div>
-                  <div class="tm-list-item">
-                    <img
-                      src="img/hot-latte.png"
-                      alt="Image1"
-                      class="tm-list-item-img"
-                    />
-                    <div class="tm-black-bg tm-list-item-text">
-                      <h3 class="tm-list-item-name">
-                        Hot Latte<span class="tm-list-item-price">$6.50</span>
-                      </h3>
-                      <p class="tm-list-item-description">
-                        Page contents are organized into 3 tabs to show
-                        different lists of items.
-                      </p>
-                    </div>
-                  </div>
+ 
                 </div>
               </div>
 
