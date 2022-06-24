@@ -149,13 +149,11 @@ function Content() {
                     />
                     <div class="tm-black-bg tm-list-item-text">
                       <h3 class="tm-list-item-name">
-                        Strawberry Smoothie
+                        سموذي الفراولة
                         <span class="tm-list-item-price">$12.50</span>
                       </h3>
                       <p class="tm-list-item-description">
-                        Here is a short description for the item along with a
-                        squared thumbnail.
-                      </p>
+سموذي  الفراولة                      </p>
                     </div>
                   </div>
                   <div class="tm-list-item">
@@ -166,47 +164,10 @@ function Content() {
                     />
                     <div class="tm-black-bg tm-list-item-text">
                       <h3 class="tm-list-item-name">
-                        Red Berry Smoothie
-                        <span class="tm-list-item-price">$14.50</span>
+عصير الرمان                        <span class="tm-list-item-price">$14.50</span>
                       </h3>
                       <p class="tm-list-item-description">
-                        Here is a list of 4 items or add more. You can use this
-                        template for commercial purposes.
-                      </p>
-                    </div>
-                  </div>
-                  <div class="tm-list-item">
-                    <img
-                      src="img/smoothie-3.png"
-                      alt="Image1"
-                      class="tm-list-item-img"
-                    />
-                    <div class="tm-black-bg tm-list-item-text">
-                      <h3 class="tm-list-item-name">
-                        Pineapple Smoothie
-                        <span class="tm-list-item-price">$16.50</span>
-                      </h3>
-                      <p class="tm-list-item-description">
-                        Left side logo and main menu are fixed. The video
-                        background is fixed.
-                      </p>
-                    </div>
-                  </div>
-                  <div class="tm-list-item">
-                    <img
-                      src="img/smoothie-4.png"
-                      alt="Image1"
-                      class="tm-list-item-img"
-                    />
-                    <div class="tm-black-bg tm-list-item-text">
-                      <h3 class="tm-list-item-name">
-                        Spinach Smoothie
-                        <span class="tm-list-item-price">$18.50</span>
-                      </h3>
-                      <p class="tm-list-item-description">
-                        You are not allowed to redistribute the template ZIP
-                        file on other template sites.
-                      </p>
+عصير الرمان                      </p>
                     </div>
                   </div>
                 </div>
@@ -215,7 +176,7 @@ function Content() {
 
             <div id="about" class="tm-page-content">
               <div class="tm-black-bg tm-mb-20 tm-about-box-1">
-                <h2 class="tm-text-primary tm-about-header">About Wave Cafe</h2>
+                <h2 class="tm-text-primary tm-about-header">عن Wave Cafe</h2>
                 <div class="tm-list-item tm-list-item-2">
                   <img
                     src="img/about-1.png"
@@ -223,26 +184,22 @@ function Content() {
                     class="tm-list-item-img tm-list-item-img-big"
                   />
                   <div class="tm-list-item-text-2">
+                    <p>  اكل بيتي 100% </p>
                     <p>
-                      Wave Cafe is a one-page video background HTML CSS template
-                      from Tooplate. You can use this for your business
-                      websites.
-                    </p>
-                    <p>
-                      You can also use this for your client websites which you
-                      get paid for your website services. Please tell your
-                      friends about us.
-                    </p>
+                      
+نقدم لكم اجمل و الذ الاكلات العربية في قلب مدينة مونتريال اكل بيتي 100%     
+                   </p>
+                 
+                 
                   </div>
                 </div>
               </div>
               <div class="tm-black-bg tm-mb-20 tm-about-box-2">
                 <div class="tm-list-item tm-list-item-2">
                   <div class="tm-list-item-text-2">
-                    <h2 class="tm-text-primary">How we began</h2>
+                    <h2 class="tm-text-primary">بدايتنا</h2>
                     <p>
-                      If you wish to support us, please contact Tooplate. Thank
-                      you. Duis bibendum erat nec ipsum consectetur sodales.
+                     بدينا ب ساندويشة وفكرة وانتهينا بمشروع
                     </p>
                   </div>
                   <img
