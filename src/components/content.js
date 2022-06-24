@@ -57,7 +57,7 @@ function Content() {
                   </li>
                   <li>
                     <a href="/" class="tm-tab-link" data-id="juice">
-                      فواكه
+                      فواكه مثلجة
                     </a>
                   </li>
                 </ul>
