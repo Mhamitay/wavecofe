@@ -47,17 +47,17 @@ function Content() {
                 <ul>
                   <li>
                     <a href="/" class="tm-tab-link active" data-id="cold">
-                      Iced Coffee
+                      مشروبات مثلجة
                     </a>
                   </li>
                   <li>
                     <a href="/" class="tm-tab-link" data-id="hot">
-                      Hot Coffee
+                      مشروبات ساخنة
                     </a>
                   </li>
                   <li>
                     <a href="/" class="tm-tab-link" data-id="juice">
-                      Fruit Juice
+                      فواكه
                     </a>
                   </li>
                 </ul>
